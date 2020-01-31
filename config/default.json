@@ -1,4 +1,0 @@
-{
-    "mongoURI": "mongodb+srv://iplex:hello@cluster0-o3wcr.mongodb.net/test?retryWrites=true&w=majority",
-    "jwtSecret": "mysecrettoken"
-}
